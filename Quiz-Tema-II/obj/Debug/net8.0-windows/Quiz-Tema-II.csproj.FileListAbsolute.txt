@@ -1,0 +1,34 @@
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.exe
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.deps.json
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.runtimeconfig.json
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz_Tema_II.Form1.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz_Tema_II.Form2.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.csproj.GenerateResource.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.AssemblyInfoInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.AssemblyInfo.cs
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.csproj.CoreCompileInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\refint\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.genruntimeconfig.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Quiz-Tema-II\obj\Debug\net8.0-windows\ref\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.exe
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.deps.json
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.runtimeconfig.json
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\bin\Debug\net8.0-windows\Quiz-Tema-II.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz_Tema_II.Form1.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz_Tema_II.Form2.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.csproj.GenerateResource.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.AssemblyInfoInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.AssemblyInfo.cs
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.csproj.CoreCompileInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\refint\Quiz-Tema-II.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\Quiz-Tema-II.genruntimeconfig.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala\Quiz-Tema-II\obj\Debug\net8.0-windows\ref\Quiz-Tema-II.dll

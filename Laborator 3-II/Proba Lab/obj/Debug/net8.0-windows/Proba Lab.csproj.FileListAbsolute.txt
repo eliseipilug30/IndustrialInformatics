@@ -1,0 +1,14 @@
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\bin\Debug\net8.0-windows\Proba Lab.exe
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\bin\Debug\net8.0-windows\Proba Lab.deps.json
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\bin\Debug\net8.0-windows\Proba Lab.runtimeconfig.json
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\bin\Debug\net8.0-windows\Proba Lab.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\bin\Debug\net8.0-windows\Proba Lab.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.AssemblyInfoInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.AssemblyInfo.cs
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.csproj.CoreCompileInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\refint\Proba Lab.dll
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\Proba Lab.genruntimeconfig.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Laborator 3-II\Proba Lab\obj\Debug\net8.0-windows\ref\Proba Lab.dll

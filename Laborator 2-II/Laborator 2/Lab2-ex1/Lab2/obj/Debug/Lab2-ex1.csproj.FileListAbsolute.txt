@@ -1,0 +1,11 @@
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\bin\Debug\Lab2.exe
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2-ex1.csproj.AssemblyReference.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2-ex1.csproj.GenerateResource.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2-ex1.csproj.CoreCompileInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2.exe
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala Laboraror\Laborator 2-II\Laborator 2\Lab2-ex1\Lab2\obj\Debug\Lab2.pdb

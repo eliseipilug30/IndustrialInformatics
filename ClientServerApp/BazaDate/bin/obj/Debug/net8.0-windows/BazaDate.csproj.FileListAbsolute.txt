@@ -1,0 +1,6 @@
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Tema2Lab4\BazaDate\obj\Debug\net8.0-windows\BazaDate.Form1.resources
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Tema2Lab4\BazaDate\obj\Debug\net8.0-windows\BazaDate.csproj.GenerateResource.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Tema2Lab4\BazaDate\obj\Debug\net8.0-windows\BazaDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Tema2Lab4\BazaDate\obj\Debug\net8.0-windows\BazaDate.AssemblyInfoInputs.cache
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Tema2Lab4\BazaDate\obj\Debug\net8.0-windows\BazaDate.AssemblyInfo.cs
+C:\Users\Elisei\Desktop\An3\Semestrul_2\Informatica Industriala-Laboraror\Tema2Lab4\BazaDate\obj\Debug\net8.0-windows\BazaDate.csproj.CoreCompileInputs.cache

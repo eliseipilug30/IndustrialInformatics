@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Id]
+      ,[Nume_carte]
+      ,[Autor]
+      ,[Editura]
+  FROM [Biblioteca].[dbo].[Biblioteca]
